@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am sitemap.xml file created in the testb branch. I don't want to merge with testa branch.
+=======
+I am sitemap.xml file of testa branch. I don't want to merge with testb branch 
+>>>>>>> origin/testa
