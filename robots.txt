@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch testa robot.txt. I don't want to merge with testb
+=======
+I am robots.txt file created in testb branch. I don't want to merge with the testa branch
+>>>>>>> origin/testb

@@ -1,1 +1,1 @@
-I am atest.txt file created in testa branch. Read to merge in testb branch. If you see this file in testb branch means I merged
+I am atest.txt file created in testa branch. Ready to merge in testb branch. If you see this file in testb branch means I merged
