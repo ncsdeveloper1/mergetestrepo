@@ -1,2 +1,2 @@
-"path/robots.txt merge=ours" 
-"path/sitemap.xml merge=ours"
+"path/robots.txt merge=foo" 
+"path/sitemap.xml merge=foo"
